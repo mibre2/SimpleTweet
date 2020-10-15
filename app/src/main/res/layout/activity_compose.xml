@@ -17,7 +17,7 @@
         android:layout_marginTop="5dp"
         android:hint="@string/what_s_happening"
         android:minLines="5"
-        android:text="MultiAutoCompleteTextView" />
+        android:text="" />
 
     <Button
         android:id="@+id/btnTweet"
